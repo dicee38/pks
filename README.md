@@ -84,3 +84,6 @@
 - Добавить больше элементов геймификации (прогресс-бары, награды).  
 
 ---
+
+
+Ссылка - https://www.figma.com/design/DzbviYsS24B0RgUsUmaMBO/Untitled?node-id=0-1&t=jrt5VnEK2PEbv9TV-1
